@@ -58,8 +58,8 @@ events:
     checks:
       - "Detecting C compiler ABI info"
     directories:
-      source: "/Users/pjgonzalez/CLionProjects/untitled1/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-ItWTLG"
-      binary: "/Users/pjgonzalez/CLionProjects/untitled1/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-ItWTLG"
+      source: "/Users/pjgonzalez/CLionProjects/Assisgment 4/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-ItWTLG"
+      binary: "/Users/pjgonzalez/CLionProjects/Assisgment 4/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-ItWTLG"
     cmakeVariables:
       CMAKE_C_FLAGS: ""
       CMAKE_C_FLAGS_DEBUG: "-g"
